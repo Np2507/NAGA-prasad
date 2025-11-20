@@ -1,2 +1,2 @@
-# NAGA-prasad
+# Naga Prasad
 introduction to c
